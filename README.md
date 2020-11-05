@@ -3,6 +3,9 @@
 ## HelloApp
 * HelloWorld
 
+## HelloWpf
+* HelloWorld
+
 ## ImageTool
 * 工厂镜像制作工具
 
@@ -12,5 +15,8 @@
 ## MyConsole
 * 串口调试助手
 
-## Snake
+## GameSnake
 * 贪吃蛇游戏
+
+## GameTank
+* 坦克大战游戏
