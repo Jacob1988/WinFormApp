@@ -1,0 +1,10 @@
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\obj\Debug\MyConsole.Main.resources
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\obj\Debug\MyConsole.csproj.GenerateResource.cache
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\obj\Debug\MyConsole.csproj.CoreCompileInputs.cache
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\bin\Debug\MyConsole.exe.config
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\bin\Debug\MyConsole.exe
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\bin\Debug\MyConsole.pdb
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\obj\Debug\MyConsole.Properties.Resources.resources
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\obj\Debug\MyConsole.exe
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\obj\Debug\MyConsole.pdb
+F:\MY_CODE\VS2017\WinFormApp\MyConsole\obj\Debug\MyConsole.csprojAssemblyReference.cache
