@@ -16,5 +16,10 @@ namespace HelloApp
         {
             InitializeComponent();
         }
+
+        private void buttonOk_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World!", "Hello", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }

@@ -445,6 +445,5 @@ namespace Snake
             GameSnake.SnakeGameRenew();
         }
         #endregion
-
     }
 }
